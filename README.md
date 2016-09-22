@@ -22,7 +22,7 @@
 2. 打开『微信Web开发者工具』的程序目录
   * Windows：使用资源管理器查看
   * Mac：右键点击图标，选择『显示包内容』
-3. 进入程序目录后，替换以下文件：
+3. 进入程序目录后，替换以下文件（只需要替换0.9版本里的，0.7版本用来登陆）：
   * Windows：
     * \package.nw\app\dist\components\create\createstep.js
     * \package.nw\app\dist\stroes\projectStores.js
