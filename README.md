@@ -1,10 +1,14 @@
 ##相关资源
 
-开发群：QQ（452137839）
+* 开发群：QQ（452137839）
 
-开发工具v0.9：链接: https://pan.baidu.com/s/1pLTKIqJ 密码: iswg
+* 开发工具 v0.9
+	* 百度: https://pan.baidu.com/s/1pLTKIqJ （密码: iswg）
+	* 360: https://yunpan.cn/ckvXjEbnFYMSC （提取码：f9ca）
 
-Demo源代码：链接: https://pan.baidu.com/s/1o8hJFuU 密码: bsky
+* Demo源代码
+	* 百度: https://pan.baidu.com/s/1o8hJFuU （密码: bsky）
+	* 360: https://yunpan.cn/ckvXAacJjvsgR （提取码：3327）
 
 ##破解步骤
 
