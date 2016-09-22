@@ -2,15 +2,15 @@
 
 开发群：QQ（452137839）
 
-开发工具：https://pan.baidu.com/s/1jI6orRo （密码：a9wc）
+开发工具v0.9：https://pan.baidu.com/s/1jI6orRo （密码：a9wc）
 
-开发Demo：https://pan.baidu.com/s/1mhUq4rQ （密码：uch3）
+Demo源代码：https://pan.baidu.com/s/1mhUq4rQ （密码：uch3）
 
 ##破解步骤
 
 ***Mac测试可用，Windows测试可用***
 
-1. 下载开发工具，并安装
+1. 下载开发工具，并安装（***注意：一定要安装0.9版本***）
 2. 打开『微信Web开发者工具』的程序目录
 	* Windows：使用资源管理器查看
 	* Mac：右键点击图标，选择『显示包内容』
