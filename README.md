@@ -2,6 +2,7 @@
 
 微信应用号开发工具：https://pan.baidu.com/s/1jI6orRo （密码：a9wc）
 
+微信应用号开发Demo：https://pan.baidu.com/s/1mhUq4rQ （密码：uch3）
 
 ####破解步骤
 
