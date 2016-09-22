@@ -52,6 +52,8 @@
 4. 扫码登录失败
 	* 问题原因：please bind your wechat account to the appid first
 	* 解决方案：重启应用，多试几次扫码
+	* 解决方案 2：先使用0.7版本的进行扫码登陆，登陆成功后，再用0.9的版本打开就直接进入了。 
+	  * 0.7版本地址：http://dldir1.qq.com/WechatWebDev/release/0.7.0/wechat_web_devtools_0.7.0.dmg
 
 ##工具截图
 
