@@ -49,6 +49,9 @@
 3. 修复asdebug.js报错
 	* 问题原因：TypeError: Cannot read property 'MaxRequestConcurrent' of undefined
 	* 解决方案：替换 /Resources/app.nw/app/dist/weapp/appservice/asdebug.js	
+4. 扫码登录失败
+	* 问题原因：please bind your wechat account to the appid first
+	* 解决方案：重启应用，多试几次扫码
 
 ##工具截图
 
