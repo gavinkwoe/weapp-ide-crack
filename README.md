@@ -13,7 +13,7 @@
 1. 查看『微信Web开发者工具』内容
 2. 替换以下文件
 	* /Resources/app.nw/app/dist/components/create/createstep.js
-	* /Resources/app.nw/app/dist/stores/projectStores.js
+	* /Resources/app.nw/app/dist/stroes/projectStores.js
 3. 运行『微信Web开发者工具』
 4. 创建项目
 5. 重启『微信Web开发者工具』**（重要）**
