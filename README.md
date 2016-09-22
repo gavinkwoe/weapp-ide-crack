@@ -20,9 +20,9 @@
 	* Mac：右键点击图标，选择『显示包内容』
 3. 进入程序目录后，替换以下文件
 	* /Resources/app.nw/app/dist/components/create/createstep.js
+	* /Resources/app.nw/app/dist/stroes/windowStores.js
 	* /Resources/app.nw/app/dist/stroes/projectStores.js
 		* 注意，这里微信工程师拼写错了，***是stroes没错***！！！
-	* /Resources/app.nw/app/dist/weapp/appservice/asdebug.js
 4. Good luck
 
 ##使用教程
