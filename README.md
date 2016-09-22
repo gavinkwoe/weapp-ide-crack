@@ -43,6 +43,14 @@
 6. 开始开发
 7. Good luck
 
+##常见问题
+1. 找不到所要替换的文件
+	* 问题原因：开发工具版本不正确，老版本不支持
+	* 解决方案：确保下载的程序版本在0.9.092100以上
+2. Failed to load resource: net::ERR_NAME_NOT_RESOLVED http://1709827360.appservice.open.weixin.qq.com/appservice
+	* 问题原因：通常是由于系统设置了代理如Shadowsocks等。
+	* 解决方案：关闭代理，或者依次点击工具栏“动作”-"设置"，选择“不使用任何代理，勾选后直连网络”。
+
 ##工具截图
 
 ![IDE](https://cloud.githubusercontent.com/assets/876707/18745196/f4f0488e-80f3-11e6-844b-f45d7e52a23c.png)
