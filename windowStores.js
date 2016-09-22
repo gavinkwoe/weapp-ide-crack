@@ -60,23 +60,11 @@ function init() {
                 i === -1 && t.indexOf("chrome-extension") === -1 && (e.push(t), localStorage.setItem("autoComplete", JSON.stringify(e))), this.emit("UPDATA_AUTOCOMPLETE", e)
             },
             getUserInfo: function() {
-                /*if (c) {
+                if (c) {
                     var t = +new Date;
                     t > c.signatureExpiredTime && (c = {}, localStorage.removeItem("userInfo"))
                 }
-                return o.info("windowStores.js getUserInfo " + JSON.stringify(c)), c*/
-                return {
-                    "signature":"123456",
-                    "newticket":"123456",
-                    "openid":"123456",
-                    "nickName":"郭尔吉",
-                    "headUrl":"",
-                    "ticketExpiredTime":9974564170372,
-                    "signatureExpiredTime":9977148970372,
-                    "sex":"male",
-                    "province":"Okinawa",
-                    "city":"",
-                    "contry":"CN"};
+                return o.info("windowStores.js getUserInfo " + JSON.stringify(c)), c;
             },
             updateUserInfo: function(t) {
                 c = t;
