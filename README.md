@@ -22,11 +22,7 @@
 	* /Resources/app.nw/app/dist/components/create/createstep.js
 	* /Resources/app.nw/app/dist/stroes/projectStores.js
 		* 注意，这里微信工程师拼写错了，***是stroes没错***！！！
-4. 运行『微信Web开发者工具』
-5. 创建项目
-6. 重启『微信Web开发者工具』**（重要）**
-7. 打开刚刚创建的项目
-8. Good luck
+4. Good luck
 
 ##使用教程
 
@@ -50,6 +46,9 @@
 2. Failed to load resource: net::ERR_NAME_NOT_RESOLVED http://1709827360.appservice.open.weixin.qq.com/appservice
 	* 问题原因：通常是由于系统设置了代理如Shadowsocks等。
 	* 解决方案：关闭代理，或者依次点击工具栏“动作”-"设置"，选择“不使用任何代理，勾选后直连网络”。
+3. 修复asdebug.js报错
+	* 问题原因：TypeError: Cannot read property 'MaxRequestConcurrent' of undefined
+	* 解决方案：替换 /Resources/app.nw/app/dist/weapp/appservice/asdebug.js	
 
 ##工具截图
 
