@@ -2,9 +2,9 @@
 
 开发群：QQ（452137839）
 
-开发工具v0.9：https://pan.baidu.com/s/1jI6orRo （密码：a9wc）
+开发工具v0.9：链接: https://pan.baidu.com/s/1pLTKIqJ 密码: iswg
 
-Demo源代码：https://pan.baidu.com/s/1mhUq4rQ （密码：uch3）
+Demo源代码：链接: https://pan.baidu.com/s/1o8hJFuU 密码: bsky
 
 ##破解步骤
 
