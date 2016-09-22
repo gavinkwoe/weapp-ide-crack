@@ -25,11 +25,9 @@
 3. 进入程序目录后，替换以下文件：
   * Windows：
     * \package.nw\app\dist\components\create\createstep.js
-    * \package.nw\app\dist\stroes\windowStores.js
     * \package.nw\app\dist\stroes\projectStores.js
   * Mac：
     * /Resources/app.nw/app/dist/components/create/createstep.js
-    * /Resources/app.nw/app/dist/stroes/windowStores.js
     * /Resources/app.nw/app/dist/stroes/projectStores.js
   注意，这里微信工程师拼写错了，***是stroes没错***！！！
 
