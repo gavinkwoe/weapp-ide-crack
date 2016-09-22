@@ -10,15 +10,31 @@
 
 ***Mac测试可用，Windows测试可用***
 
-1. 查看『微信Web开发者工具』内容
-2. 替换以下文件
+1. 下载开发工具，并安装
+2. 查看『微信Web开发者工具』内容
+3. 替换以下文件
 	* /Resources/app.nw/app/dist/components/create/createstep.js
-	* /Resources/app.nw/app/dist/stroes/projectStores.js
-3. 运行『微信Web开发者工具』
-4. 创建项目
-5. 重启『微信Web开发者工具』**（重要）**
+	* /Resources/app.nw/app/dist/stores/projectStores.js
+4. 运行『微信Web开发者工具』
+5. 创建项目
+6. 重启『微信Web开发者工具』**（重要）**
 7. 打开刚刚创建的项目
 8. Good luck
+
+##使用教程
+
+1. 运行『微信Web开发者工具』
+2. 通过微信扫描二维码
+3. 创建项目
+	* AppID：随便填
+	* 项目名称：随便填
+	* 本地开发目录：选择一个目录
+4. 点击「添加项目」
+	* 此时如果出错，先退出再重进
+	* 此时，能够看到项目列表了
+5. 打开项目
+6. 开始开发
+7. Good luck
 
 ##工具截图
 
