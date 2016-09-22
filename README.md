@@ -29,6 +29,7 @@
   * Mac：
     * /Resources/app.nw/app/dist/components/create/createstep.js
     * /Resources/app.nw/app/dist/stroes/projectStores.js
+  
   注意，这里微信工程师拼写错了，***是stroes没错***！！！
 
   **[替换的文件点击这里下载](https://github.com/gavinkwoe/weapp-ide-crack/archive/master.zip)**
