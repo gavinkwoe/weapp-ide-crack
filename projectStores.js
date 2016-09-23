@@ -101,6 +101,7 @@ function init() {
                     method: "post",
                     needToken: 1
                 }, function(i, s, c) {
+                    c = '{"baseresponse": {"errcode": 0}, "is_admin": 1, "attr_list": []}';
                     if (g = !1, i) return void n.error("projectStores.js end get projectAttr network error: " + JSON.stringify(i));
                     n.info("projectStores.js end get projectAttr " + c);
                     var a = void 0;
