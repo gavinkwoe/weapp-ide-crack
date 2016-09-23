@@ -117,6 +117,9 @@
   * 问题原因：please bind your wechat account to the appid first
   * 解决方案：先使用0.7版本的进行扫码登陆，登陆成功后，再用0.9的版本打开就直接进入了。
     * 0.7版本地址：http://dldir1.qq.com/WechatWebDev/release/0.7.0/wechat_web_devtools_0.7.0.dmg
+5. mac版本升级到0.9.092300后，asdebug.js报错
+  * 问题原因：TypeError: Cannot read property 'MaxRequestConcurrent' of undefined
+  * 解决方案：替换 /Resources/app.nw/app/dist/weapp/appservice/asdebug.js  
 
 ##工具截图
 
