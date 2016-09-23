@@ -1,6 +1,8 @@
-#微信应用号官方IDE
+#微信应用号/小程序开发IDE
 
-![IDE](https://cloud.githubusercontent.com/assets/876707/18773863/cca59fae-8185-11e6-9d7b-050ba646b456.png)
+<img src="https://cloud.githubusercontent.com/assets/876707/18773863/cca59fae-8185-11e6-9d7b-050ba646b456.png" width = "172" height = "150" alt="LOGO" align=center />
+
+***注意：先下0.7版用于登录，再下0.9版用于开发，目前只能本地编译，不能上传***
 
 ##下载声明
 
