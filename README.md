@@ -3,7 +3,7 @@
 * 开发群：一群（452137839）二群（160108745）
 
 * 开发工具 v0.7
-	* 百度: https://pan.baidu.com/s/1pLTKIqJ （密码: iswg）
+	* 百度: https://pan.baidu.com/s/1pLxqFzH （密码: bwt9）
 	* 360: https://yunpan.cn/ckvTYFHWzYYFV （提取码：e09b）
 
 * 开发工具 v0.9
