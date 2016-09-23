@@ -77,6 +77,8 @@
     }
 
     function i(e, o) {
+        // 去除请求URL域名限制
+        return true
         try {
             for (var n = F.projectConfig, t = n.Network, r = "webscoket" === o ? t.WsRequestDomain : t.RequestDomain, a = 0; a < r.length; a++)
                 if (0 === e.indexOf(r[a])) return !0
