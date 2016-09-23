@@ -2,6 +2,12 @@
 
 ![IDE](https://cloud.githubusercontent.com/assets/876707/18773863/cca59fae-8185-11e6-9d7b-050ba646b456.png)
 
+##下载声明
+
+* 相关代码纯属技术研究与爱好，请在学习使用后删除
+* 相关下载资源均来自于QQ群，与作者及贡献者本人无关
+* 当微信官方提供正式版本后，请支持微信官方，一起把应用号做的更好
+
 ##相关资源
 
 * 开发群：
@@ -19,6 +25,18 @@
 * Demo源代码
   * 百度: https://pan.baidu.com/s/1o8hJFuU （密码: bsky）
   * 360: https://yunpan.cn/ckvXAacJjvsgR （提取码：3327）
+
+##贡献者名单
+
+感谢大家的贡献！
+
+| 贡献者 | 贡献内容 |
+|------------|---------------|
+| qdsang | 解决无法创建App问题 |
+| loulin | 补充常见问题 |
+| fakefish | 修复0.7下载链接 |
+| AlayshChen | 去除请求URL域名限制 |
+| QFish | 补充常见问题 |
 
 ##破解步骤
 
