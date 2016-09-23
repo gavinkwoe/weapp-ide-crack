@@ -60,6 +60,7 @@
     * /Resources/app.nw/app/dist/weapp/appservice/asdebug.js  
 
   注意，这里微信工程师拼写错了，***是stroes没错***！！！
+  更新到0.9.092300之后，再启动会报400013错误，微信工程师把这个文件夹名字改成stores了，再重新按照上面替换就ok了。
 
   **[替换的文件点击这里下载](https://github.com/gavinkwoe/weapp-ide-crack/archive/master.zip)**
 
