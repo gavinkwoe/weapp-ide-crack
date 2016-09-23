@@ -91,9 +91,9 @@
         }), void console.error("%c 最多同时发起 " + I + " 个 wx.request 请求", "color: red; font-size: x-large");
         var t = o.url,
             r = o.header || {};
-        if (!i(t)) return G--, n && n({
-            errMsg: "request:fail;"
-        }), void console.error("%c URL 域名不合法，请在 mp 后台配置后重试", "color: red; font-size: x-large");
+        // if (!i(t)) return G--, n && n({
+        //     errMsg: "request:fail;"
+        // }), void console.error("%c URL 域名不合法，请在 mp 后台配置后重试", "color: red; font-size: x-large");
         var a, s = new XMLHttpRequest,
             c = o.method || "POST",
             u = (o.complete, F.networkTimeout && F.networkTimeout.request);
