@@ -9,7 +9,7 @@ function init() {
         r = (require("path"), require("../../utils/newReport.js")),
         i = require("../../config/urlConfig.js"),
         s = require("../../common/request/request.js"),
-        c = (require("../../stroes/webviewStores.js"), require("../../common/log/log.js")),
+        c = (require("../../stores/webviewStores.js"), require("../../common/log/log.js")),
         o = require("glob"),
         n = require("../../config/errcodeConfig.js"),
         p = (require("../../actions/windowActions.js"), require("../../actions/projectActions.js")),
