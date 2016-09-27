@@ -2,8 +2,7 @@
 
 <img src="https://cloud.githubusercontent.com/assets/876707/18773863/cca59fae-8185-11e6-9d7b-050ba646b456.png" width = "172" height = "150" alt="LOGO" align=center />
 
-官方已推出正式版本IDE，请前往下载：
-https://mp.weixin.qq.com/wiki?t=resource/res_main&id=mp1474632113_xQVCl&token=&lang=zh_CN
+官方已推出正式版本IDE，请前往下载：https://mp.weixin.qq.com/wiki
 
 ## 下载声明
 
