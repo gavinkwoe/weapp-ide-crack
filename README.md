@@ -88,16 +88,6 @@
 6. 开始开发
 7. Good luck
 
-##学习资料
-
-* NoteDown版本
-	* 框架入门
-		* http://wxopen.notedown.cn/framework/MINA.html
-	* 组件入门
-		* http://wxopen.notedown.cn/component/
-	* API入门
-		* http://wxopen.notedown.cn/api/
-
 ##Demo运行
 
 * 创建项目
